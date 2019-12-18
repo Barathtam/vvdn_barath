@@ -27,7 +27,6 @@ void main()
   printf("*");
  }
 printf("\n");
-#if 0
  /*If you want to know what you have entered as password, you can print it*/
  printf("\nYour password is :");
 
@@ -36,5 +35,4 @@ printf("\n");
   printf("%c",pasword[i]);
  }
  printf("\n");
-#endif
 }
